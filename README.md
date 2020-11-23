@@ -1,2 +1,3 @@
 # data-preprocessing
-Work with table data and visualization
+
+This project contains data preprocessing, data analysis and visualizations using pandas and matplotlib.
